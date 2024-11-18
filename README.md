@@ -15,18 +15,15 @@
 <a href="https://www.linkedin.com/in/dhinu-philip-lkn/">
   <img alt="Dhinu's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
+ <!-- 
 <a href="dhinucphilip1022001@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</a>
-
-
-###
+</a> -->
 
 <br>
 </p>
 
 
-###
 <!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
@@ -44,6 +41,7 @@
 
 <p align="left">I'm Dhinu C Philip from Kerala, India<br><br>- 🔭 I’m a Software developer<br>- 📚 I'm currently learning Microservice Architecture<br>- ⚡ In my free time I draw, design, game, cinema.</p>
 
+Connect with me: dhinucphilip1022001@gmail.com
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
