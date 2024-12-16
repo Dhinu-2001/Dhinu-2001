@@ -7,7 +7,7 @@
 </p>  -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/Dhinu-2001/Dhinu-2001/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Dhinu-2001" width="700" height="300" />
+  <img src="https://socialify.git.ci/Dhinu-2001/Dhinu-2001/image?font=Source%20Code%20Pro&forks=0&issues=0&language=0&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark" alt="Dhinu-2001" width="700" height="300" />
 </p>
 
 <p align="center">
